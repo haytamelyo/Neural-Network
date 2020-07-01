@@ -6,7 +6,7 @@ __Jupyter notebooks__ to help you started with tensorflow 2.0 . The repository i
 
     $> pip install tensorflow==2.0.0-alpha0
     
-![Tensorflow](https://i1.wp.com/syncedreview.com/wp-content/uploads/2019/03/image-2-2.png?resize=1024%2C525&ssl=1)
+![Tensorflow](https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png)
 
 ## Table of contents
 
